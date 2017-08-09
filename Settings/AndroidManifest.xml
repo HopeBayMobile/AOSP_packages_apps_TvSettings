@@ -42,7 +42,6 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Settings"
         android:usesCleartextTraffic="true"
-        android:defaultToDeviceProtectedStorage="true"
         android:directBootAware="true">
 
         <activity
